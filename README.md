@@ -8,7 +8,7 @@
 - Offers interactive visuals with filters and slicers  
 
 <p align="center">
-  <img src="assets/overview.png" width="700" alt="ZN Solution Dashboard Overview">
+  <img src="https://github.com/Areeba-sarwar/ZN-Solution-PowerBI-Dashboard/blob/main/ZN%20Solution%20Dashboard.PNG" width="700" alt="ZN Solution Dashboard Overview">
 </p>
 
 <p align="center">
